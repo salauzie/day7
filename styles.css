@@ -1,0 +1,174 @@
+body {
+	font-family: Helvetica;
+}
+
+nav.header a {
+	display: inline-block;
+}
+
+nav.header {
+	background-color: #E5E5E5;
+	width: 100%;
+	margin-top: -17px;
+	height: 45px;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+/*div.section1,
+div.section2 {
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+}
+*/
+
+img.octocat {
+	height: 30px;
+	width: 30px;
+	border-radius: 100%;
+}
+
+
+
+nav.footer {
+	position: absolute;
+	bottom: 100px;
+	width: 100%;
+	height:10px;
+	border-top: 1px solid #E5E5E5;
+	text-align: center;
+}
+
+nav.footer ul li {
+	display: inline-block;
+}
+
+a {
+	text-decoration: none;
+}
+
+.section-1,
+.section1,
+.section1a,
+.section1b {
+	color: black;
+}
+
+.section4d,
+.section4c,
+.section4b,
+.section4a,
+.section4 {
+	color: rgb(65, 131, 196)
+}
+
+.section-1:hover,
+.section1a:hover,
+.section1b:hover,
+.section1:hover {
+	color: rgb(65, 131, 196);
+}
+
+.section4d:hover,
+.section4c:hover,
+.section4b:hover,
+.section4a:hover,
+.section4:hover {
+	text-decoration: underline;
+}
+
+img.photo {
+	margin-top: 12px;
+	margin-bottom: 12px;
+	max-width: 230px;
+	max-height: 230px;
+}
+
+div.section2 {
+	list-style: none;
+}
+
+div.section3 {
+	list-style: none;
+	margin-top: 195px;
+}
+
+.container {
+	width: 1000px;
+	display: block;
+	margin: 0 auto;
+}
+
+.left {
+	max-width: 30%;
+	float: left;
+	margin-left: 50px;
+}
+
+.right {
+	max-width: 70%;
+	float: left;
+	margin-left: 50px;
+	
+}
+
+.section1b,
+.section1a,
+.searchbar {
+	margin-right: 10px;
+}
+
+.section-1 {
+	margin-right: 100px;
+}
+
+.section4a {
+	margin-right: 10px;
+}
+
+.section4b {
+	margin-left: 10px;
+}
+
+.section4c {
+	margin-left: 50px;
+}
+
+.section4d {
+	margin-right: 50px;
+}
+
+.name {
+	font-weight: bold;
+}
+
+.follow,
+.info,
+.name-info {
+	border-bottom: 1px solid #E5E5E5;
+	padding-bottom: 15px;
+	padding-top: 10px;
+}
+
+.section3 a {
+	color: rgb(65, 131, 196);
+	text-decoration: none;
+	border-bottom: 1px solid #E5E5E5;
+}
+
+.section3 {
+	border-bottom: 1px solid #E5E5E5;
+}
+
+.section3:hover a {
+	text-decoration: underline;
+}
+/*div.section2 {
+
+}*/
+
+/*a.section1 {
+	word-spacing: 5em;
+	text align: left;
+}*/
